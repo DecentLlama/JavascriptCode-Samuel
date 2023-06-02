@@ -1,3 +1,24 @@
 body{
     background-color: rgb(59, 187, 144) ;
 }
+
+.btn-click{
+
+    background-color: rgb(18, 209, 18);
+    color: white;
+    border: 2px solid rgb(7, 95, 7);
+    font-size: 20px;
+    border-radius: 6px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.btn-reiniciar{
+    background-color: rgb(194, 41, 51);
+    color: white;
+    border: 2px solid rgb(95, 7, 7);
+    font-size: 20px;
+    border-radius: 6px;
+    padding: 10px;
+    cursor: pointer; 
+}

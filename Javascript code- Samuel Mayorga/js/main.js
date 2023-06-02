@@ -47,7 +47,7 @@ else{
     console.log(`El numero ${numeroUno} es igual a ${numeroDos}`);
 }
 */
-//Dado un numero identificar si un numero es par o impar
+/*Dado un numero identificar si un numero es par o impar
 
 let numeroUno = prompt("Ingresa el valor deseado");
 let resultado = parseInt(numeroUno) % 2;
@@ -55,4 +55,6 @@ if(resultado==0){
     console.log(`El numero ${numeroUno} es par`);
 }else{
     console.log(`El numero ${numeroUno} es impar`);
-}
+}*/
+
+
